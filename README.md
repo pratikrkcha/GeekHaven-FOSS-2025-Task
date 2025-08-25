@@ -72,9 +72,6 @@ Also, push an image to your repository where all the tasks have been verified by
 
 ## 📂 **File Naming and Submission Format**
 
-> [!WARNING]
-> Please keep your `public key` and `private key` in `.gitignore` file, as you must totally avoid commiting these files in your github repository. But these files must be present locally when executing the test script.
-
 1. Name your files as follows:
    - The script where commands were being logged: `task_commands.sh`
    - The testing script: `task_tester.sh`
@@ -92,7 +89,6 @@ Make sure your submission is neat and follows the required file names and struct
 
 ## 🎯 **Submission Guidelines**
 
-- **Do NOT share** or expose your SSH keys or other sensitive data publicly.
 - Your private repository should have **proper collaborator permissions** for the IDs mentioned above.
 - Make sure your Bash script runs seamlessly on any standard Linux/Unix environment.
 - Pay attention to detail and ensure everything is automated as per the requirements.
